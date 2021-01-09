@@ -21,6 +21,7 @@ Introductory slides COMING SOON
 
 __Participant Name__ (Affiliation(s), [website.com](website.com))
 
+Embedded video of pre-recorded talk (see html comments/.md)
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 # Schedule

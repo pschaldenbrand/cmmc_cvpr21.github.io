@@ -1,6 +1,7 @@
 github:
   is_project_page: false
-title: Computational Measurements of Machine Creativity, CVPR 2021
+title: Computational Measurements of Machine Creativity
+description: A Workshop for CVPR 2021
 # remote_theme: samarsault/texture
 # remote_theme: thelehhman/texture
 #theme: jekyll-theme-midnight

@@ -4,8 +4,8 @@
 <em>Kyungja, by Eunsu Kang</em>
 </p>
 
-# CMMC (Computational Measurements of Machine Creativity) 
-## Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
+# Computational Measurements of Machine Creativity (CMMC)
+## An Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
 
 ### June 2021
 

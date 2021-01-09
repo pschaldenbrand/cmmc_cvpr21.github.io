@@ -4,14 +4,10 @@
 <em>Kyungja, by Eunsu Kang</em>
 </p>
 
-# Computational Measurements of Machine Creativity (CMMC)
+# Computational Measurements of Machine Creativity (CMMC), [CVPR 2021](http://cvpr2021.thecvf.com/)
 ## An Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
 
-### June 2021
-
-### Time TBD
-
-### [CVPR2021](http://cvpr2021.thecvf.com/)
+### June 2021, Time/Date TBD
 
 [Speakers](#speakers) | [Schedule](#schedule) | [Questions](#questions) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
 

@@ -5,7 +5,7 @@
 </p>
 
 # Computational Measurements of Machine Creativity (CMMC), [CVPR 2021](http://cvpr2021.thecvf.com/)
-## An Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
+## An Interactive Workshop Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
 
 ### June 2021, Time/Date TBD
 

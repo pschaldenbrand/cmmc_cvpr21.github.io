@@ -4,7 +4,8 @@
 <em>Kyungja, by Eunsu Kang</em>
 </p>
 
-# Collaboratively Designing Metrics to Evaluate Creative Machines
+# CMMC (Computational Measurements of Machine Creativity) 
+## Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
 
 ### June 2021
 

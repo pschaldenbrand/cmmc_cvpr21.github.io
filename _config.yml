@@ -1,7 +1,7 @@
 github:
   is_project_page: false
 title: Computational Measurements of Machine Creativity, CVPR 2021
-description: 
+description: |
   An Interactive Workshop Bridging the Gap between 
   Subjective and Computational Measurements of Machine Creativity
 # remote_theme: samarsault/texture

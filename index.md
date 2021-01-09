@@ -20,7 +20,7 @@ Introductory slides COMING SOON
 
 # Speakers
 
-__Participant Name__ (Affiliatin, [website.com](website.com))
+__Participant Name__ (Affiliation(s), [website.com](website.com))
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 

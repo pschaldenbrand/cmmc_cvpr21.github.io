@@ -1,7 +1,7 @@
 github:
   is_project_page: false
-title: Measuring Computational Creativity
-description: A Workshop for ISEA 2020, Montreal
+title: Computational Measurements of Machine Creativity
+description: An Interactive Workshop on Bridging the Gap between Subjective and Computational Measurements of Machine Creativity, for CVPR 2021
 # remote_theme: samarsault/texture
 # remote_theme: thelehhman/texture
 #theme: jekyll-theme-midnight

@@ -86,14 +86,33 @@ We will publish our results after the workshop.
 
 # Organizers
 
-__Many Organizers__ all listed here. With [website](url.com)
+[__James McCann__](http://www.cs.cmu.edu/~jmccann/) is an Assistant Professor in the Carnegie Mellon Robotics Institute. He is interested in systems and interfaces that operate in real-time and build user intuition, including systems that enable and enhance creativity.
 
+ 
+[__Ahmed Elgammal__](https://sites.rutgers.edu/ahmed-elgammal/) is a professor at the Department of Computer Science at Rutgers University. His research areas include data science in the domain of digital humanities. His work on knowledge discovery in art history and AI art generation received wide international media attention, and his art has been shown in several technology and art venues in Los Angeles, Frankfurt, San Francisco, and New York City.
+
+[__Eunsu Kang__ ](Http://kangeunsu.com) is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. She has been making interactive art installations and performances, teaching art-making using machine learning methods, and recently looking into the possibility of creative AI. She is also a co-founder of [Women Art AI collective](womenart.ai). 
+ 
+[__Hyeju Jang__](https://www.cs.ubc.ca/~hyejuj/) is a postdoctoral fellow at the University of British Columbia. Her research interests include natural language processing, computational linguistics, discourse analysis, and text mining in various domains. She has been working on computationally modeling creative uses of language, such as metaphor, in order to capture how they are used in discourse context and identify a broader spectrum of predictors that contribute towards their detection and generation. 
+ 
+ 
+[__Jean Oh__](www.cs.cmu.edu/~jeanoh/) is a faculty member at the Robotics Institute at Carnegie Mellon University. She is passionate about creating robots that can collaborate with humans in shared or remote environments, continuously improving themselves through learning, exploration, and interactions. Jean co-designed a new graduate-level course on Creative AI at CMU and was a co-organizer of the first workshop on Measuring Computational Creativity at ISEA’20.
+
+ 
+[__Devi Parikh__](https://www.cc.gatech.edu/~parikh/) is an Associate Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research (FAIR). Her research interests are in computer vision, natural language processing, embodied AI, human-AI collaboration, and AI for creativity. Devi has co-organized workshops at CVPR since 2010. For instance, the series of [Visual Question Answering workshops](https://visualqa.org/workshop.html_
+
+[__Peter Schaldenbrand__ ](https://pschaldenbrand.github.io/) is a graduate student and technical staff member at Carnegie Mellon University.  His research interests include creating machine learning models that perform creative tasks and artificial intelligence in education.  Recently, he has been focusing on a robot artistic painting project.
+ 
+[__Jun-Yan Zhu__](https://www.cs.cmu.edu/~junyanz/) is an Assistant Professor in the School of Computer Science of Carnegie Mellon University. He studies computer vision, computer graphics, computational photography, and machine learning, with the goal of building intelligent machines, capable of recreating our visual world. Jun-Yan has co-organized several relevant workshops and tutorials including CVPR 2020 Tutorial on Neural Rendering, ICCV 2019 Workshop on Image and Video Synthesis, and CVPR 2018 Tutorial on Generative Adversarial Networks.
+
+
+<!--
 __Eunsu Kang__ is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. Her works have been presented at conferences including ACM, ICMC, ISEA, SIGGRAPH Asia and NeurIPS. Kang earned her Ph.D. from DXARTS of the University of Washington, an MA from MAT, UCSB, and an MFA from Ewha Womans University. She was a tenured Associate Professor of New Media Art at the University of Akron and currently is a Visiting Professor of Art and Machine Learning at Carnegie Mellon University’s School of Computer Science. [kangeunsu.com](kangeunsu.com)
 
 __Jean Oh__ is a faculty member at the [Robotics Institute at Carnegie Mellon University]([www.cs.cmu.edu/~jeanoh/]). Her research addresses the creativity in decision making in the problem domains including self-driving cars, disaster response, healthcare, and arts. Her team’s work won the Best Paper Award at the 2018 IEEE International Conference on Robotics and Automation, and also the Best Cognitive Robotics Paper Award at the IEEE International Conference on Robotics and Automation in 2015.  Jean received her Ph.D. in Language and Information Technologies at Carnegie Mellon University, M.S. in Computer Science at Columbia University, and B.S. in Biotechnology at Yonsei University.
 
 __Robert Twomey__ is an artist and engineer exploring the poetic intersection of human and machine perception. He has presented his work at SIGGRAPH, the Museum of Contemporary Art San Diego, and his research has been supported by the National Science Foundation, Microsoft, Amazon, and NVIDIA. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA from UC San Diego, and his PhD in DXARTS from the University of Washington. He is an Assistant Professor with the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) at the University of Nebraska-Lincoln, and a Visiting Scholar with the [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) at UC San Diego.
-
+-->
 # Support
 
 This workshop is made possible, in part, by generous support from the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu).

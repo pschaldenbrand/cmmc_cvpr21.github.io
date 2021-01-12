@@ -17,12 +17,26 @@ CVPR 2021 is a virtual event and this workshop will be conducted online. Our inv
 
 Introductory slides COMING SOON
 
-# Speakers
-
-__Participant Name__ (Affiliation(s), [website.com](website.com))
+# Tentative Speakers 
+<!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
 
 Embedded youtube video of pre-recorded talk (see html comments/.md for example)
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+
+[__David Bau__](https://people.csail.mit.edu/davidbau/home/), MIT CSAIL 
+
+[__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto 
+
+[__Kazjon Grace__](https://kazjon.com/), U. Sydney 
+ 
+[__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR 
+
+[__Mark Riedl__](https://www.cc.gatech.edu/people/mark-riedl), Georgia Tech
+
+[__Carolyn Rose__](http://www.cs.cmu.edu/~cprose/), CMU 
+
+[__Kenneth Stanley__](https://www.cs.ucf.edu/~kstanley/), Open AI 
+
 
 # Schedule
 

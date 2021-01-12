@@ -84,20 +84,17 @@ Here is our metrics worksheet: [google docs](newmetricssheet.com)
 
 We will publish our results after the workshop.
 
-# Organizers
-
-[__James McCann__](http://www.cs.cmu.edu/~jmccann/) is an Assistant Professor in the Carnegie Mellon Robotics Institute. He is interested in systems and interfaces that operate in real-time and build user intuition, including systems that enable and enhance creativity.
-
+# Organizers 
  
 [__Ahmed Elgammal__](https://sites.rutgers.edu/ahmed-elgammal/) is a professor at the Department of Computer Science at Rutgers University. His research areas include data science in the domain of digital humanities. His work on knowledge discovery in art history and AI art generation received wide international media attention, and his art has been shown in several technology and art venues in Los Angeles, Frankfurt, San Francisco, and New York City.
-
-[__Eunsu Kang__ ](Http://kangeunsu.com) is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. She has been making interactive art installations and performances, teaching art-making using machine learning methods, and recently looking into the possibility of creative AI. She is also a co-founder of [Women Art AI collective](womenart.ai). 
  
 [__Hyeju Jang__](https://www.cs.ubc.ca/~hyejuj/) is a postdoctoral fellow at the University of British Columbia. Her research interests include natural language processing, computational linguistics, discourse analysis, and text mining in various domains. She has been working on computationally modeling creative uses of language, such as metaphor, in order to capture how they are used in discourse context and identify a broader spectrum of predictors that contribute towards their detection and generation. 
  
+[__Eunsu Kang__ ](Http://kangeunsu.com) is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. She has been making interactive art installations and performances, teaching art-making using machine learning methods, and recently looking into the possibility of creative AI. She is also a co-founder of [Women Art AI collective](womenart.ai). 
+
+[__James McCann__](http://www.cs.cmu.edu/~jmccann/) is an Assistant Professor in the Carnegie Mellon Robotics Institute. He is interested in systems and interfaces that operate in real-time and build user intuition, including systems that enable and enhance creativity.
  
 [__Jean Oh__](www.cs.cmu.edu/~jeanoh/) is a faculty member at the Robotics Institute at Carnegie Mellon University. She is passionate about creating robots that can collaborate with humans in shared or remote environments, continuously improving themselves through learning, exploration, and interactions. Jean co-designed a new graduate-level course on Creative AI at CMU and was a co-organizer of the first workshop on Measuring Computational Creativity at ISEA’20.
-
  
 [__Devi Parikh__](https://www.cc.gatech.edu/~parikh/) is an Associate Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research (FAIR). Her research interests are in computer vision, natural language processing, embodied AI, human-AI collaboration, and AI for creativity. Devi has co-organized workshops at CVPR since 2010. For instance, the series of [Visual Question Answering workshops](https://visualqa.org/workshop.html).
 

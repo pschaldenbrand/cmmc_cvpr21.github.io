@@ -130,4 +130,4 @@ __Robert Twomey__ is an artist and engineer exploring the poetic intersection of
 -->
 # Support
 
-This workshop is made possible, in part, by generous support from the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu).
+<!--This workshop is made possible, in part, by generous support from the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu).-->

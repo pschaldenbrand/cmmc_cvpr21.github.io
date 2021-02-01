@@ -1,9 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <p align="center">
-<img width="400" height="400" src="https://mcreativeai.github.io/kyungja_400.jpg">
+<img width="1200" height="400" src="https://cmmc-cvpr21/three_ekphrases.jpg">
 <br>
-<em>Kyungja, by Eunsu Kang</em>
+<em>Something Pacific (Reverse Ekphrasis) by Robert Twomey and Collaborators</em>
 </p>
 
 ## Bridging the Gap between Subjective and Computational Measurements of Machine Creativity for [CVPR 2021](http://cvpr2021.thecvf.com/)

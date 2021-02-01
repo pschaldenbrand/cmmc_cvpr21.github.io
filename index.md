@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <p align="center">
-<img width="1200" height="400" src="https://cmmc-cvpr21/three_ekphrases.jpg">
+<img width="1200" height="400" src="https://raw.githubusercontent.com/pschaldenbrand/cmmc_cvpr21.github.io/master/three_ekphrases.jpg">
 <br>
 <em>Something Pacific (Reverse Ekphrasis) by Robert Twomey and Collaborators</em>
 </p>

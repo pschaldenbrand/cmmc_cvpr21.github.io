@@ -3,7 +3,7 @@
 <p align="center">
 <img width="1200" height="400" max-width="100%" height="auto" src="https://raw.githubusercontent.com/pschaldenbrand/cmmc_cvpr21.github.io/master/three_ekphrases.jpg">
 <br>
-<em>Something Pacific -> Sculpture Television Buddha -> Television Buddha Sculpture with Grass (Reverse Ekphrasis) by Robert Twomey</em>
+<em>Television Buddha (Reverse Ekphrasis) by Robert Twomey</em>
 </p>
 
 ## Bridging the Gap between Subjective and Computational Measurements of Machine Creativity for [CVPR 2021](http://cvpr2021.thecvf.com/)

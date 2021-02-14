@@ -27,7 +27,7 @@ Embedded youtube video of pre-recorded talk (see html comments/.md for example)
 
 [__David Bau__](https://people.csail.mit.edu/davidbau/home/), MIT CSAIL 
 
-[__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto 
+<!-- [__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto -->
 
 [__Kazjon Grace__](https://kazjon.com/), U. Sydney 
  

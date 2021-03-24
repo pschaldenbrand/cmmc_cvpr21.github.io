@@ -7,7 +7,7 @@
 </p>
 
 ## Bridging the Gap between Subjective and Computational Measurements of Machine Creativity for [CVPR 2021](http://cvpr2021.thecvf.com/)
-### June 2021, Time/Date TBD
+### June 20, 2021, 09:00 - 12:00 (Time Zone TBD)
 
 [Speakers](#speakers) | [Schedule](#schedule) | [Questions](#questions) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
 

@@ -7,7 +7,7 @@
 </p>
 
 ## Bridging the Gap between Subjective and Computational Measurements of Machine Creativity for [CVPR 2021](http://cvpr2021.thecvf.com/)
-### June 20, 2021, 09:00 - 12:00 (Time Zone TBD)
+### June 20, 2021, 09:00 - 12:30 (Time Zone TBD)
 
 [Speakers](#speakers) | [Schedule](#schedule) | [Questions](#questions) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
 
@@ -47,15 +47,14 @@ Draft Schedule from ISEA 2020
 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
 | ---- | ---- | ---- |
-| 3:00 - 3:20 | Introduction (20 min) | main room | 
-| 3:20 - 3:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
-| 3:50 - 4:05 | Q & A (15 min) | main room |
-| 4:05 - 4:40 | Guest Speaker Panel 1 (35min) | main room |
-| 4:40 - 5:10 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
-| 5:10 - 5:25 | Q & A (15 min) | main room |
-| 5:25 - 6:10 | Guest Speaker Panel 2 (35 min) | main room |
-| 6:10 - 6:30 | Discussion 3 - Revising Metrics, Evaluation 2 (20 min) | breakout rooms |
-| 6:30 - 7:00 | Presentation of Results and Q&A | main room |
+| 9:00 - 9:20 | Introduction (20 min) | main room | 
+| 9:20 - 9:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
+| 9:50 - 10:05 | Q & A (15 min) | main room |
+| 10:05 - 10:35 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
+| 10:35 - 10:50 | Q & A (15 min) | main room |
+| 10:50 - 11:30 | Guest Speaker Panel (40 min) | main room |
+| 11:30 - 12:00 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
+| 12:10 - 12:30 | Presentation of Results and Wrap up | main room | 
 
 # Questions
 

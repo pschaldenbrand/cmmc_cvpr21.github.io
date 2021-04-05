@@ -100,6 +100,7 @@ Participants will be updated as they are confirmed.
 
 # Metrics
 Coming soon.
+
 <!--
 
 Here is our metrics worksheet: [google docs](newmetricssheet.com)

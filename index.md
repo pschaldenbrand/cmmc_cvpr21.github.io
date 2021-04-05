@@ -84,7 +84,7 @@ Additional Questions (All)
 
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future Measurable Creative AI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
 
-__How to participate__: If you are interested to participate, please fill out the following google form by April 30th, 2021.
+__How to participate__: If you are interested to participate, please fill out the following google form by May 1st, 2021.
 
 Form: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSeAGeh5_nk2Y3Uu3zPIyUU_riHrAnSutdb1xUZcglrEsM_AWQ/viewform)
 

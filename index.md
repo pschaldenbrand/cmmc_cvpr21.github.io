@@ -29,9 +29,13 @@ Embedded youtube video of pre-recorded talk (see html comments/.md for example)
 
 <!-- [__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto -->
 
+[__Kristen Grauman__](https://www.cs.utexas.edu/users/grauman/), U. Texas at Austin
+
 [__Kazjon Grace__](https://kazjon.com/), U. Sydney 
  
 [__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR 
+
+[__Ellen Pearlman__](https://thoughtworksarts.io/bio/ellen-pearlman/), ThoughtWorks Arts 
 
 [__Mark Riedl__](https://www.cc.gatech.edu/people/mark-riedl), Georgia Tech
 

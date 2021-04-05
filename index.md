@@ -93,15 +93,17 @@ Participants in this workshop, as a group, will examine a number of Artificial I
 
 __How to participate__: If you are interested to participate, please fill out the following google form by Some Deadline, Spring 2021.
 
-Form: [google form link](googleform.com)
+Form: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSeAGeh5_nk2Y3Uu3zPIyUU_riHrAnSutdb1xUZcglrEsM_AWQ/viewform)
 
-We will send out an acceptance notification by Spring, 2021.
+We will send out an acceptance notification by April 30, 2021.
 
+<!--
 # Metrics
 
 Here is our metrics worksheet: [google docs](newmetricssheet.com)
 
 We will publish our results after the workshop.
+-->
 
 # Organizers 
  

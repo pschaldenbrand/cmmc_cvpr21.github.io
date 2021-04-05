@@ -22,7 +22,7 @@ Introductory slides COMING SOON
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
 
-Embedded youtube video of pre-recorded talk (see html comments/.md for example)
+<!-- Embedded youtube video of pre-recorded talk (see html comments/.md for example) -->
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 [__David Bau__](https://people.csail.mit.edu/davidbau/home/), MIT CSAIL 

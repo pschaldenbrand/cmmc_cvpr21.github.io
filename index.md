@@ -19,7 +19,7 @@ CVPR 2021 is a virtual event and this workshop will be conducted online. Our inv
 
 Introductory slides COMING SOON
 
-# Tentative Speakers 
+# Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
 
 Embedded youtube video of pre-recorded talk (see html comments/.md for example)

@@ -79,13 +79,6 @@ Additional Questions (All)
 - How can we contribute to a better definition of "creativity" (which is still fuzzy) using measures that capture computational creativity?
 - Evaluating a creative work can be considered subjective. Can we (and should we) account for this subjectivity in our artificially intelligent evaluation methods, or should we strive to make objective measures?
 
-# Participants
-<!--
-This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
-
-__Workshop Participant__ [This is their website/artwork/publication title](website.com)
--->
-Participants will be updated as they are confirmed.
 
 # Call for Participation
 
@@ -96,6 +89,14 @@ __How to participate__: If you are interested to participate, please fill out th
 Form: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSeAGeh5_nk2Y3Uu3zPIyUU_riHrAnSutdb1xUZcglrEsM_AWQ/viewform)
 
 We will send out an acceptance notification by May 15th, 2021.
+
+# Participants
+<!--
+This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
+
+__Workshop Participant__ [This is their website/artwork/publication title](website.com)
+-->
+Participants will be updated as they are confirmed.
 
 # Metrics
 Coming soon.

@@ -20,7 +20,7 @@ While the methods for producing machine creativity have significantly improved, 
 
 # Format
 This workshop will consist of a combination of expert panelists discussing key questions in measuring creativity, breakout sessions amongst attendees drawing on their disciplinary expertise, and an interactive evaluation of artworks submitted to the workshop.  We have gathered a list of experts in creative computer vision and visual art who are interested in discussing their own methods of measuring creativity and hearing how others do so.  These guest speakers will engage in two panel discussions and a question and answer session.  
-![image](https://user-images.githubusercontent.com/6665940/113640791-40922d00-964a-11eb-9315-ac4f6cfe1134.png)
+
 
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
@@ -98,7 +98,6 @@ This workshop is accepting submissions of computer vision artwork to form a virt
 
 If you are interested in submitting artwork, please use the following Google Form to send your work by Saturday, May 1st, midnight Eastern.
 [Art Call Form](https://forms.gle/xTYSwdZPrUKKwv3x9)
-![image](https://user-images.githubusercontent.com/6665940/113640899-76371600-964a-11eb-84a5-85b6d7289420.png)
 
 <!--
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future Measurable Creative AI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.

@@ -11,8 +11,6 @@
 
 [Speakers](#speakers) | [Schedule](#schedule) | [Questions](#questions) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
 
-Description coming soon.
-
 CVPR 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
 # Introduction

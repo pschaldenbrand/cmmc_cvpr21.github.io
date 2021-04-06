@@ -83,15 +83,17 @@ Additional Questions (All)
 
 # Call for Participation
 
-We offer three ways for participation.
+We offer two ways for participation.
 
 __Call for Participation in the Live, Active Breakout session__
+
 In this interactive workshop, participants will discuss thought-provoking topics of Creative AI. For instance, how do we evaluate the artifacts created by AI systems? What are the metrics for measuring creativity? Participants in this workshop will engage in breakout room discussions to collaboratively find answers to these questions. This interdisciplinary workshop aims to provide a platform for the researchers in computer vision, machine learning, or AI in general, to meet artists, writers, and performers to discuss and share their views on the subject of creativity and intelligence. The discussions will draw from concrete examples from a variety of creative domains, including image generation, robots painting, and story generation. We aim to build on existing views from both artists and AI researchers to carve out interdisciplinary discourse on Creative AI.
 
 Participation in this workshop is open to all CVPR attendees, however, space is limited to ensure that the live, active breakout sessions are productive. In order to reserve a spot for these sessions, please fill out the following Google Form by Saturday, May 1st, midnight Eastern.
 [Participation Form](https://forms.gle/MMtx7zcNJyfUbNqNA)
 
 __Call for Artwork__
+
 This workshop is accepting submissions of computer vision artwork to form a virtual gallery exhibition.  The submissions will be evaluated for acceptance by a jury committee of artists.  These artworks will be featured in an online exhibition, and additionally will serve as  contemporary examples of machine creativity for workshop participants to discuss.  Guest speakers and attendees will evaluate these artworks during the workshop, applying the measures of machine creativity developed  earlier in the event.
 
 If you are interested in submitting artwork, please use the following Google Form to send your work by Saturday, May 1st, midnight Eastern.

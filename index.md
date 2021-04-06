@@ -16,8 +16,11 @@ Description coming soon.
 CVPR 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
 # Introduction
+While the methods for producing machine creativity have significantly improved, the discussion on a scientific consensus on measuring the creative abilities of machines has only begun.  As Artificial Intelligence becomes capable of solving more abstract and advanced problems (e.g., image synthesis, cross-modal translations), how do we measure the creative performance of a machine?  In the world of visual art, subjective evaluations of creativity have been discussed at length. In the CVPR community, by comparison, evaluating a creative method has not been as systematized. Our goal in this workshop is to discuss current methods for measuring creativity both from experts in creative artificial intelligence as well as artists.  We do not wish to narrow the gap between how humans evaluate creativity and how machines do, instead we wish to understand the differences and create links between the two such that our machine creativity methods improve.
 
-Introductory slides COMING SOON
+# Format
+This workshop will consist of a combination of expert panelists discussing key questions in measuring creativity, breakout sessions amongst attendees drawing on their disciplinary expertise, and an interactive evaluation of artworks submitted to the workshop.  We have gathered a list of experts in creative computer vision and visual art who are interested in discussing their own methods of measuring creativity and hearing how others do so.  These guest speakers will engage in two panel discussions and a question and answer session.  
+![image](https://user-images.githubusercontent.com/6665940/113640791-40922d00-964a-11eb-9315-ac4f6cfe1134.png)
 
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
@@ -82,6 +85,22 @@ Additional Questions (All)
 
 # Call for Participation
 
+We offer three ways for participation.
+
+__Call for Participation in the Live, Active Breakout session__
+In this interactive workshop, participants will discuss thought-provoking topics of Creative AI. For instance, how do we evaluate the artifacts created by AI systems? What are the metrics for measuring creativity? Participants in this workshop will engage in breakout room discussions to collaboratively find answers to these questions. This interdisciplinary workshop aims to provide a platform for the researchers in computer vision, machine learning, or AI in general, to meet artists, writers, and performers to discuss and share their views on the subject of creativity and intelligence. The discussions will draw from concrete examples from a variety of creative domains, including image generation, robots painting, and story generation. We aim to build on existing views from both artists and AI researchers to carve out interdisciplinary discourse on Creative AI.
+
+Participation in this workshop is open to all CVPR attendees, however, space is limited to ensure that the live, active breakout sessions are productive. In order to reserve a spot for these sessions, please fill out the following Google Form by Saturday, May 1st, midnight Eastern.
+[Participation Form](https://forms.gle/MMtx7zcNJyfUbNqNA)
+
+__Call for Artwork__
+This workshop is accepting submissions of computer vision artwork to form a virtual gallery exhibition.  The submissions will be evaluated for acceptance by a jury committee of artists.  These artworks will be featured in an online exhibition, and additionally will serve as  contemporary examples of machine creativity for workshop participants to discuss.  Guest speakers and attendees will evaluate these artworks during the workshop, applying the measures of machine creativity developed  earlier in the event.
+
+If you are interested in submitting artwork, please use the following Google Form to send your work by Saturday, May 1st, midnight Eastern.
+[Art Call Form](https://forms.gle/xTYSwdZPrUKKwv3x9)
+![image](https://user-images.githubusercontent.com/6665940/113640899-76371600-964a-11eb-84a5-85b6d7289420.png)
+
+<!--
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future Measurable Creative AI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
 
 __How to participate__: If you are interested to participate, please fill out the following google form by May 1st, 2021.
@@ -89,6 +108,7 @@ __How to participate__: If you are interested to participate, please fill out th
 Form: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSeAGeh5_nk2Y3Uu3zPIyUU_riHrAnSutdb1xUZcglrEsM_AWQ/viewform)
 
 We will send out an acceptance notification by May 15th, 2021.
+-->
 
 # Participants
 <!--

@@ -26,7 +26,9 @@ This workshop will consist of a combination of expert panelists discussing key q
 <!-- Embedded youtube video of pre-recorded talk (see html comments/.md for example) -->
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted--media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
+<img width="150" height="auto" src="speakers/david.jpeg">
 
+[__David Bau__](https://people.csail.mit.edu/davidbau/home/) a PhD student at MIT, advised by Antonio Torralba. His research focuses on the dissection, visualization, and interactive manipulation of deep networks in vision, and he is the creator of the Network Dissection, GAN Paint and GAN Rewriting methods.  Previous to MIT he was an engineer at Google where he contributed to Image Search and Hangouts and created the Pencil Code educational programming system. David is coauthor of the widely-used textbook, Numerical Linear Algebra.
 
 <!-- [__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto -->
 
@@ -49,7 +51,7 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__Kenneth Stanley__](https://www.cs.ucf.edu/~kstanley/) leads a research team at OpenAI on the challenge of open-endedness. He was previously Charles Millican Professor of Computer Science at the University of Central Florida and was also a co-founder of Geometric Intelligence Inc., which was acquired by Uber to create Uber AI Labs, where he was head of Core AI research.  He received a B.S.E. from the University of Pennsylvania in 1997 and received a Ph.D. in 2004 from the University of Texas at Austin.  He is an inventor of the Neuroevolution of Augmenting Topologies (NEAT), HyperNEAT, novelty search, and POET algorithms, as well as the CPPN representation, among many others.  His main research contributions are in neuroevolution (i.e. evolving neural networks), generative and developmental systems, coevolution, machine learning for video games, interactive evolution, quality diversity, and open-endedness. He has won best paper awards for his work on NEAT, NERO, NEAT Drummer, FSMC, HyperNEAT, novelty search, Galactic Arms Race, POET, and MCC. His original 2002 paper on NEAT also received the 2017 ISAL Award for Outstanding Paper of the Decade 2002 - 2012 from the International Society for Artificial Life. He is a coauthor of the popular science book, "Why Greatness Cannot Be Planned: The Myth of the Objective" (published by Springer), and has spoken widely on its subject.  
 
-[__David Bau__](https://people.csail.mit.edu/davidbau/home/), MIT CSAIL 
+
 
 [__Kazjon Grace__](https://kazjon.com/), U. Sydney 
  

@@ -32,6 +32,11 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 <!-- [__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto -->
 
+<img width="150" height="auto" src="speakers/kazjon.jpeg">
+
+[__Kazjon Grace__](https://kazjon.com/) is the director of the Designing with AI Lab at the University of Sydney’s School of Architecture, Design and Planning. His work explores how intelligent interactive systems can be part of the creative decision-making process, with a particular focus on computational models of surprise, curiosity and interpretation.  He is currently an ARC DECRA Fellow leading a project to use methods from Creative AI to encourage people to diversify their diets and thus eat more healthily.
+
+
 <img width="150" height="auto" src="speakers/kristen.jpg">
 
 [__Kristen Grauman__](https://www.cs.utexas.edu/users/grauman/) is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition, video, and embodied perception.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an IEEE Fellow, AAAI Fellow, Sloan Fellow, and recipient of the 2013 Computers and Thought Award.  She and her collaborators have been recognized with several Best Paper awards in computer vision, including a 2011 Marr Prize and a 2017 Helmholtz Prize (test of time award).  She serves as an Associate Editor-in-Chief for PAMI and previously served as a Program Chair of CVPR 2015 and NeurIPS 2018.
@@ -53,7 +58,7 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 
 
-[__Kazjon Grace__](https://kazjon.com/), U. Sydney 
+
  
 [__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR 
 

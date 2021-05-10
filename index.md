@@ -46,6 +46,9 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__Ellen Pearlman__](https://thoughtworksarts.io/bio/ellen-pearlman/) is a new media artist, curator and critic. A current Research Fellow at MIT, she is also a Senior Researcher Assistant Professor at RISEBA University in Latvia, as well as Director of ThoughtWorks Arts, a global innovation and research lab, and President of Art-A-Hack(TW) a rapid prototyping collaborative workshop. Ellen is a Fulbright Specialist in Art, Media and Technology, a Zero1 American Arts Incubator/U.S. State Department artist, and a U.S. Alumni Ties (Fulbright) grantee. She received her PhD from the School of Creative Media, Hong Kong City University where her thesis was awarded highest global honors by Leonardo LABS Abstracts. Ellen created "Noor: A Brainwave Opera", an interactive immersive work in a 360 degree theater in Hong Kong, and "AIBO: An Emotionally Intelligent Artificial Intelligence Brainwave Opera" at the Estonian Academy of Music. 
 
+<img width="150" height="auto" src="speakers/mark.jpeg">
+
+[__Mark Riedl__](https://www.cc.gatech.edu/people/mark-riedl) is a Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely. His research is supported by the NSF, DARPA, ONR, the U.S. Army, U.S. Health and Human Services, Disney, and Google. He is the recipient of a DARPA Young Faculty Award and an NSF CAREER Award.
 
 <img width="150" height="auto" src="speakers/carolyn.png"  >
 
@@ -60,9 +63,9 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 
  
-[__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR 
+<!-- [__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR -->
 
-[__Mark Riedl__](https://www.cc.gatech.edu/people/mark-riedl), Georgia Tech
+
 
 # Schedule
 

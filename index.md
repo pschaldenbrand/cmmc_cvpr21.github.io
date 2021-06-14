@@ -30,12 +30,11 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__David Bau__](https://people.csail.mit.edu/davidbau/home/) a PhD student at MIT, advised by Antonio Torralba. His research focuses on the dissection, visualization, and interactive manipulation of deep networks in vision, and he is the creator of the Network Dissection, GAN Paint and GAN Rewriting methods.  Previous to MIT he was an engineer at Google where he contributed to Image Search and Hangouts and created the Pencil Code educational programming system. David is coauthor of the widely-used textbook, Numerical Linear Algebra.
 
-<!-- [__Sanja Fidler__](https://www.cs.utoronto.ca/~fidler/), U Toronto -->
-
+<!--
 <img width="150" height="auto" src="speakers/kazjon.jpeg">
 
 [__Kazjon Grace__](https://kazjon.com/) is the director of the Designing with AI Lab at the University of Sydney’s School of Architecture, Design and Planning. His work explores how intelligent interactive systems can be part of the creative decision-making process, with a particular focus on computational models of surprise, curiosity and interpretation.  He is currently an ARC DECRA Fellow leading a project to use methods from Creative AI to encourage people to diversify their diets and thus eat more healthily.
-
+-->
 
 <img width="150" height="auto" src="speakers/kristen.jpg">
 

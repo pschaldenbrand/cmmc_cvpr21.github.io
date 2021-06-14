@@ -35,6 +35,9 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__Kazjon Grace__](https://kazjon.com/) is the director of the Designing with AI Lab at the University of Sydney’s School of Architecture, Design and Planning. His work explores how intelligent interactive systems can be part of the creative decision-making process, with a particular focus on computational models of surprise, curiosity and interpretation.  He is currently an ARC DECRA Fellow leading a project to use methods from Creative AI to encourage people to diversify their diets and thus eat more healthily.
 -->
+<img width="150" height="auto" src="http://people.csail.mit.edu/jahanian/img/ali-csail-2017-1.png">
+
+[__Ali Jahanian__](http://people.csail.mit.edu/jahanian/)
 
 <img width="150" height="auto" src="speakers/kristen.jpg">
 

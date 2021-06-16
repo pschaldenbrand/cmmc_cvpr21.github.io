@@ -70,10 +70,8 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 
 
-# Schedule
-
-Draft Schedule from ISEA 2020 (EDT)
-(online videos: invited speaker talks, participants will watch it beforehand)
+# Schedule (EDT)
+online videos: invited speaker talks, participants will watch it beforehand
 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
 | ---- | ---- | ---- |

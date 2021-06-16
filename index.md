@@ -28,7 +28,8 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 <img width="150" height="auto" src="speakers/david.png">
 
-[__David Bau__](https://people.csail.mit.edu/davidbau/home/) a PhD student at MIT, advised by Antonio Torralba. His research focuses on the dissection, visualization, and interactive manipulation of deep networks in vision, and he is the creator of the Network Dissection, GAN Paint and GAN Rewriting methods.  Previous to MIT he was an engineer at Google where he contributed to Image Search and Hangouts and created the Pencil Code educational programming system. David is coauthor of the widely-used textbook, Numerical Linear Algebra.
+[__David Bau__](https://people.csail.mit.edu/davidbau/home/) received his A.B. in Mathematics from Harvard, his M.S. in Computer Science from Cornell, and is completing his Ph.D. in EECS at MIT.  David has pioneered methods for the dissection, visualization, and interactive manipulation of deep networks in computer vision, and he is the creator of Network Dissection and GAN Paint, which enable a person to directly edit the internals of state-of-the-art neural networks.  David is coauthor of a widely-used graduate textbook, Numerical Linear Algebra.  Previous to his research at MIT he was an engineer at Google where he built Image Search ranking algorithms, Hangouts realtime communications, and the Pencil Code educational programming system.  David plans to begin as Assistant Professor at Northeastern Khoury school of computer science next year.
+
 
 <!--
 <img width="150" height="auto" src="speakers/kazjon.jpeg">

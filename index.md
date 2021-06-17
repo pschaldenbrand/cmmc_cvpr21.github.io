@@ -83,7 +83,8 @@ Presentation will be available soon!
 
 
 # Schedule (EDT)
-online videos: invited speaker talks, participants will watch it beforehand
+<!-- online videos: invited speaker talks, participants will watch it beforehand -->
+Participants are strongly recommended to watch the invited talks before the interactive session. 
 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
 | ---- | ---- | ---- |

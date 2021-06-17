@@ -14,6 +14,8 @@ transformed, stored, and used, questioning the concept, sense and value of the i
 our contemporary society, also questioning the relevance of the information collected in surveillance systems, and
 the ethical and political limits in this type of devices.
 
+---
+
 ![image](https://user-images.githubusercontent.com/1598545/122474371-f72e5a00-cf77-11eb-9a2e-5a634ef76cc5.png)
 
 [__Models for Environmental Literacy__](https://www.tivonrice.com/models.html) by [Tivon Rice](https://www.tivonrice.com)

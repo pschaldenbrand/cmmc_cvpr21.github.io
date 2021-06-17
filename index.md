@@ -41,9 +41,13 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__Ali Jahanian__](http://people.csail.mit.edu/jahanian/)
 
+Presentation will be available soon!
+
 <img width="150" height="auto" src="http://people.csail.mit.edu/jahanian/img/ali-csail-2017-1.png">
 
 [__Kristen Grauman__](https://www.cs.utexas.edu/users/grauman/) is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition, video, and embodied perception.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an IEEE Fellow, AAAI Fellow, Sloan Fellow, and recipient of the 2013 Computers and Thought Award.  She and her collaborators have been recognized with several Best Paper awards in computer vision, including a 2011 Marr Prize and a 2017 Helmholtz Prize (test of time award).  She serves as an Associate Editor-in-Chief for PAMI and previously served as a Program Chair of CVPR 2015 and NeurIPS 2018.
+
+Presentation will be available soon!
 
 <img width="150" height="auto" src="speakers/kristen.jpg">
 

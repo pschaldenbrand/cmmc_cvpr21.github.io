@@ -1,4 +1,4 @@
-# Contribute Artworks
+# Contributed Artworks
 
 ![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)
 

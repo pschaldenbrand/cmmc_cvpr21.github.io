@@ -30,6 +30,7 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__David Bau__](https://people.csail.mit.edu/davidbau/home/) received his A.B. in Mathematics from Harvard, his M.S. in Computer Science from Cornell, and is completing his Ph.D. in EECS at MIT.  David has pioneered methods for the dissection, visualization, and interactive manipulation of deep networks in computer vision, and he is the creator of Network Dissection and GAN Paint, which enable a person to directly edit the internals of state-of-the-art neural networks.  David is coauthor of a widely-used graduate textbook, Numerical Linear Algebra.  Previous to his research at MIT he was an engineer at Google where he built Image Search ranking algorithms, Hangouts realtime communications, and the Pencil Code educational programming system.  David plans to begin as Assistant Professor at Northeastern Khoury school of computer science next year.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkL5wJeDGXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 <img width="150" height="auto" src="speakers/kazjon.jpeg">
@@ -49,20 +50,26 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 [__Ellen Pearlman__](https://thoughtworksarts.io/bio/ellen-pearlman/) is a new media artist, curator and critic. A current Research Fellow at MIT, she is also a Senior Researcher Assistant Professor at RISEBA University in Latvia, as well as Director of ThoughtWorks Arts, a global innovation and research lab, and President of Art-A-Hack(TW) a rapid prototyping collaborative workshop. Ellen is a Fulbright Specialist in Art, Media and Technology, a Zero1 American Arts Incubator/U.S. State Department artist, and a U.S. Alumni Ties (Fulbright) grantee. She received her PhD from the School of Creative Media, Hong Kong City University where her thesis was awarded highest global honors by Leonardo LABS Abstracts. Ellen created "Noor: A Brainwave Opera", an interactive immersive work in a 360 degree theater in Hong Kong, and "AIBO: An Emotionally Intelligent Artificial Intelligence Brainwave Opera" at the Estonian Academy of Music. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d40jlWR5MdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img width="150" height="auto" src="speakers/mark.jpeg">
 
 [__Mark Riedl__](https://www.cc.gatech.edu/people/mark-riedl) is a Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely. His research is supported by the NSF, DARPA, ONR, the U.S. Army, U.S. Health and Human Services, Disney, and Google. He is the recipient of a DARPA Young Faculty Award and an NSF CAREER Award.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PqhdpvLfWNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img width="150" height="auto" src="speakers/carolyn.png"  >
 
 [__Carolyn Rose__](http://www.cs.cmu.edu/~cprose/) is a Professor of Language Technologies and Human-Computer Interaction in the School of Computer Science at Carnegie Mellon University.  Her research program focuses on computational modeling of discourse to enable scientific understanding the social and pragmatic nature of conversational interaction of all forms, and using this understanding to build intelligent computational systems for improving collaborative interactions.  Her research group’s highly interdisciplinary work, published in over 270 peer reviewed publications, is represented in the top venues of 5 fields: namely, Language Technologies, Learning Sciences, Cognitive Science, Educational Technology, and Human-Computer Interaction, with awards in 3 of these fields.  She is a Past President and Inaugural Fellow of the International Society of the Learning Sciences, Senior member of IEEE, Founding Chair of the International Alliance to Advance Learning in the Digital Era, and Co-Editor-in-Chief of the International Journal of Computer-Supported Collaborative Learning.  She also serves as a 2020-2021 AAAS Fellow under the Leshner Institute for Public Engagement with Science, with a focus on public engagement with Artificial Intelligence.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6hg0CUdG7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" height="auto" src="speakers/kenneth.jpg" >
 
 [__Kenneth Stanley__](https://www.cs.ucf.edu/~kstanley/) leads a research team at OpenAI on the challenge of open-endedness. He was previously Charles Millican Professor of Computer Science at the University of Central Florida and was also a co-founder of Geometric Intelligence Inc., which was acquired by Uber to create Uber AI Labs, where he was head of Core AI research.  He received a B.S.E. from the University of Pennsylvania in 1997 and received a Ph.D. in 2004 from the University of Texas at Austin.  He is an inventor of the Neuroevolution of Augmenting Topologies (NEAT), HyperNEAT, novelty search, and POET algorithms, as well as the CPPN representation, among many others.  His main research contributions are in neuroevolution (i.e. evolving neural networks), generative and developmental systems, coevolution, machine learning for video games, interactive evolution, quality diversity, and open-endedness. He has won best paper awards for his work on NEAT, NERO, NEAT Drummer, FSMC, HyperNEAT, novelty search, Galactic Arms Race, POET, and MCC. His original 2002 paper on NEAT also received the 2017 ISAL Award for Outstanding Paper of the Decade 2002 - 2012 from the International Society for Artificial Life. He is a coauthor of the popular science book, "Why Greatness Cannot Be Planned: The Myth of the Objective" (published by Springer), and has spoken widely on its subject.  
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLCJm7M9lOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  

@@ -80,7 +80,9 @@ Presentation will be available soon!
  
 <!-- [__Jessica Hodgins__](https://www.cs.cmu.edu/~jkh/), CMU/FAIR -->
 
+# Juried Artworks
 
+[__Artworks__](artworks)
 
 # Schedule (EDT)
 <!-- online videos: invited speaker talks, participants will watch it beforehand -->

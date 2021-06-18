@@ -1,7 +1,5 @@
 # Contributed Artworks
 
-| [MAIN PAGE](http://cmmc-cvpr21.com/) |
-
 ---
 
 <a href="http://www.estebanagosin.cl/eng/the_ear.html">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
@@ -117,3 +115,7 @@ The project is a juxtaposition of the artificially generated still life and orga
 
 Mezs is a speculative look into plausible new tree species that could cover the earth in the future to maintain natural balance. The new trees are the result of evolution of existing ones and mutations between them. They have qualities from multiple trees from different environments that allow them to be more resilient to future environments, and in some cases, even migrate away from the environment if the conditions for their survival  become too harsh.
 The art work engages with my growing interest in the application of AI and forests. Combining data collection of tree species from different environments (deserts, rainforests, tundra, etc.) and Machine Learning image-making techniques styleGans2. The result is a fictional collection of trees that proposes and simulates a future alteration of the planet biodiversity, with results that are often unimaginable, abstract and absurd. I was interested in using  AI not as a solutionist strategy for climate change but to comment on the effects of the Anthropocene on the environment, to speculate about the potential of future imaginations by the collaboration of human and non-human agents, explore the poetics of using AI both visually, and also sonically, create an immersive experience, and disseminate and archive the work.
+
+---
+
+| [Back to main page](http://cmmc-cvpr21.com/) |

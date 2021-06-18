@@ -92,6 +92,7 @@ Presentation will be available soon!
 - [Models for Environmental Literacy by Tivon Rice](http://cmmc-cvpr21.com/artworks#rice)
 - [Permanent Visibility by Nica Ross](http://cmmc-cvpr21.com/artworks#ross)
 - [Tunes from the Ai Frontiers by Bob L.T. Sturm](http://cmmc-cvpr21.com/artworks#sturm)
+- [AI Helper 002 by Maksim Surguy](http://cmmc-cvpr21.com/artworks#surguy)
 - [Synthetic Still Life by Ivona Tautkute](http://cmmc-cvpr21.com/artworks#tautkute)
 - [Mezs by Rihards Vitols](http://cmmc-cvpr21.com/artworks#vitols)
 

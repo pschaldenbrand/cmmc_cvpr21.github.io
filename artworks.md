@@ -2,8 +2,7 @@
 
 ---
 
-<div id="agosin">
- <a href="http://www.estebanagosin.cl/eng/the_ear.html">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
+<a href="http://www.estebanagosin.cl/eng/the_ear.html" id="agosin">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
 
 [__The Ear__](http://www.estebanagosin.cl/eng/the_ear.html) by [Esteban Y Agosin](http://www.estebanagosin.cl/eng/)
 
@@ -17,24 +16,20 @@ with the piece show how the human voice is transformed into a digital object and
 transformed, stored, and used, questioning the concept, sense and value of the information, privacy and freedom in
 our contemporary society, also questioning the relevance of the information collected in surveillance systems, and
 the ethical and political limits in this type of devices.
-</div>
+
 ---
 
-<div  id="chung">
-<a href="https://ncchung.com/zenmachine-gallery">![image](https://user-images.githubusercontent.com/1598545/122476695-7bcea780-cf7b-11eb-8b58-a75420079d03.png)</a>
+<a href="https://ncchung.com/zenmachine-gallery" id="chung">![image](https://user-images.githubusercontent.com/1598545/122476695-7bcea780-cf7b-11eb-8b58-a75420079d03.png)</a>
 
 [__Zen Machine__](https://ncchung.com/zenmachine-gallery) by [Neo Christopher Chung](https://cbml.science/)
 
 Zen Machine is a meditative audio-visual installation that answers questions from the audience with a generative hypotic soundscape. Trained on a large corpus of the Sutras, Shastras, Zen teachings, scholarly essays and texts, koans, and tweets, this artificial intelligence algorithm (GPT-2) explores existential and spiritual realms. As koans (paradoxical dialogs used as a meditative device) may be only understood by willing students and perceived as subtle invocation for awakening, our perception of Zen Machine’s answers – and broad AI – depends on our state of mind. To that end, Zen Machine provides an immersive environment and a poetic context. If so, would it be possible for AI to aid in our pursuit of enlightenment?
 
 A series of digital paintings such as "Illusion of falling asleep" (2021), "Unreality of reason" (2021), and "The awe of his supernatural deficiencies" (2021) are created from its interactive exhibition at Galeria Entropia in Wrocław, Poland (9–30/03/2021). The audience questions (as shown in quotes) and answers were fed to a generative AI system to create digital paintings. In particular, Deep Daze combining CLIP (Radford et al. 2019) and Siren (Sitzmann et al. 2020) imagines and visualizes unique scenes based on this new kind of koans. The interplay between texts and paintings provides an opportunity to pause and reflect on potentiality of going beyond anthropocentric understanding.
- 
-</div>
 
 ---
 
-<div id="fernando">
- <a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger">![image](https://user-images.githubusercontent.com/1598545/122477192-33fc5000-cf7c-11eb-97a5-ffefbbd3b7bd.png)</a>
+<a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger" id="fernando">![image](https://user-images.githubusercontent.com/1598545/122477192-33fc5000-cf7c-11eb-97a5-ffefbbd3b7bd.png)</a>
 
 [__Jungle in the Tiger__](https://www.chrisantha.co.uk/post/jungle-in-the-tiger) by [Chrisantha Fernando](https://www.chrisantha.co.uk/)
 
@@ -42,12 +37,10 @@ A neural L-system was evolved to produce images that satisfy the text descriptio
 a Duel Encoder trained on the ALIGN dataset. 
 
 See the paper [Generative Art Using Neural Visual Grammars and Dual Encoders](https://arxiv.org/abs/2105.00162)
-</div>
 
 ---
 
-<div id="ojha">
-<a href="https://utkarshojha.github.io/inter-domain-gan/">![image](https://user-images.githubusercontent.com/1598545/122570708-da8a3480-d000-11eb-9d66-3e414b61b528.png)
+<a href="https://utkarshojha.github.io/inter-domain-gan/" id="ojha">![image](https://user-images.githubusercontent.com/1598545/122570708-da8a3480-d000-11eb-9d66-3e414b61b528.png)
 </a>
 
 [__Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains__](https://utkarshojha.github.io/inter-domain-gan/) by [Utkarsh Ojha](https://utkarshojha.github.io/)
@@ -56,7 +49,6 @@ We developed a model which can generate images in such a way that different prop
 shape, background) can be changed independently. Because of this ability, we can mix properties from different domains
 to create hybrid images which didn't exist in any domain exclusively; e.g. shape or a car with dog's furry texture to
 create a furry car.
-</div>
 
 ---
 

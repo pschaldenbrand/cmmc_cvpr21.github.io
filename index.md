@@ -113,22 +113,20 @@ Participants are strongly recommended to watch the invited talks before the inte
 
 # Questions
 
-Panel 1: TBD Arts
-- What are your methods and metrics for evaluating the creative AI system that you and your colleagues have developed?
-- How does the study of creative AI systems inform human creative practice?
-- How do we attribute (who is responsible for) the creativity in collaborative creative systems? 
-- Do you think there is a difference between creative AI and human creativity? What would be the difference? If not, why not.
+### To be discussed with the panelists
 
-Panel 2: TBD Engineering
-- What are your methods and metrics for evaluating the creative AI system that you and your colleagues have developed? 
-- Do human creative methods provide valuable models for computational creativity? How does human creativity influence computational creativity?
-- How do we attribute (who is responsible for) the creativity in collaborative creative systems? 
-- How would you define creativity in generative models? If these models are specifically trained to generate new content, does this mean that they are necessarily creative?
+What are your methods and metrics for evaluating the creativity of artificial or human intelligence that you and your colleagues have developed?
 
-Additional Questions (All)
-- Are all generative systems "creative"? or… Is there a meaningful distinction between generativity and creativity?
-- How can we contribute to a better definition of "creativity" (which is still fuzzy) using measures that capture computational creativity?
-- Evaluating a creative work can be considered subjective. Can we (and should we) account for this subjectivity in our artificially intelligent evaluation methods, or should we strive to make objective measures?
+[For Engineers] How does human creativity influence computational models of creativity? [For Artists] How does the study of creative AI systems inform human creative practice?
+
+Do you think there is an inherent difference between creative AI and human creativity? What would be the difference? If not, why not.
+
+Are all generative systems “creative”? or… Is there a meaningful distinction between generativity and creativity?
+
+How do we attribute (who is responsible for) the creativity in collaborative creative systems?
+
+From Dr. Ken Stanley’s Talk: Could it be harmful to measure creativity? In what ways has measuring creativity helped creative output?.  Dr. Mark Riedl pointed out in his talk that we have methods that exhibit creativity without the need to measure it. So what is the value in measuring creativity?
+
 
 
 # Call for Participation

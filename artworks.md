@@ -38,7 +38,8 @@ See the paper [Generative Art Using Neural Visual Grammars and Dual Encoders](ht
 
 ---
 
-<a href="https://utkarshojha.github.io/inter-domain-gan/">![image](https://user-images.githubusercontent.com/1598545/122477937-63f82300-cf7d-11eb-9a68-7f982fd176ae.png)</a>
+<a href="https://utkarshojha.github.io/inter-domain-gan/">![image](https://user-images.githubusercontent.com/1598545/122570708-da8a3480-d000-11eb-9d66-3e414b61b528.png)
+</a>
 
 [__Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains__](https://utkarshojha.github.io/inter-domain-gan/) by [Utkarsh Ojha](https://utkarshojha.github.io/)
 

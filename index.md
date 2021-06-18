@@ -84,6 +84,18 @@ Presentation will be available soon!
 
 [__Gallery__](http://cmmc-cvpr21.com/artworks)
 
+- [The Ear by Esteban Y Agosin](http://cmmc-cvpr21.com/artworks#agosin)
+- [Zen Machine by Neo Christopher Chung](http://cmmc-cvpr21.com/artworks#chung)
+- [Jungle in the Tiger by Chrisantha Fernando](http://cmmc-cvpr21.com/artworks#fernando)
+- [Furry Cars by Utkarsh Ojha](http://cmmc-cvpr21.com/artworks#ojha)
+- [In The Bleak Midwinter by Glenn Marshall](http://cmmc-cvpr21.com/artworks#marshall)
+- [Models for Environmental Literacy by Tivon Rice](http://cmmc-cvpr21.com/artworks#rice)
+- [Permanent Visibility by Nica Ross](http://cmmc-cvpr21.com/artworks#ross)
+- [Tunes from the Ai Frontiers by Bob L.T. Sturm](http://cmmc-cvpr21.com/artworks#sturm)
+- [Synthetic Still Life by Ivona Tautkute](http://cmmc-cvpr21.com/artworks#tautkute)
+- [Mezs by Rihards Vitols](http://cmmc-cvpr21.com/artworks#vitols)
+
+
 # Schedule (EDT)
 <!-- online videos: invited speaker talks, participants will watch it beforehand -->
 Participants are strongly recommended to watch the invited talks before the interactive session. 

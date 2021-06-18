@@ -118,7 +118,9 @@ Participants are strongly recommended to watch the invited talks before the inte
 
 What are your methods and metrics for evaluating the creativity of artificial or human intelligence that you and your colleagues have developed?
 
-[For Engineers] How does human creativity influence computational models of creativity? [For Artists] How does the study of creative AI systems inform human creative practice?
+Do you think that it is valuable to measure creativity? In what ways has measuring creativity helped creative output?
+
+[For Artists] How does the study of creative AI systems inform human creative practice? [For Engineers] How does human creativity influence computational models of creativity? 
 
 Do you think there is an inherent difference between creative AI and human creativity? What would be the difference? If not, why not.
 
@@ -126,9 +128,7 @@ Are all generative systems “creative”? or… Is there a meaningful distincti
 
 How do we attribute (who is responsible for) the creativity in collaborative creative systems?
 
-From Dr. Ken Stanley’s Talk: Could it be harmful to measure creativity? In what ways has measuring creativity helped creative output?.  Dr. Mark Riedl pointed out in his talk that we have methods that exhibit creativity without the need to measure it. So what is the value in measuring creativity?
-
-
+<!-- 
 
 # Call for Participation
 
@@ -146,7 +146,7 @@ __Call for Artwork__
 This workshop is accepting submissions of computer vision artwork to form a virtual gallery exhibition.  The submissions will be evaluated for acceptance by a jury committee of artists.  These artworks will be featured in an online exhibition, and additionally will serve as  contemporary examples of machine creativity for workshop participants to discuss.  Guest speakers and attendees will evaluate these artworks during the workshop, applying the measures of machine creativity developed  earlier in the event.
 
 If you are interested in submitting artwork, please use the following Google Form to send your work by Saturday, May 1st, midnight Eastern.
-[Art Call Form](https://forms.gle/xTYSwdZPrUKKwv3x9)
+[Art Call Form](https://forms.gle/xTYSwdZPrUKKwv3x9) -->
 
 <!--
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future Measurable Creative AI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
@@ -204,6 +204,6 @@ __Jean Oh__ is a faculty member at the [Robotics Institute at Carnegie Mellon Un
 
 __Robert Twomey__ is an artist and engineer exploring the poetic intersection of human and machine perception. He has presented his work at SIGGRAPH, the Museum of Contemporary Art San Diego, and his research has been supported by the National Science Foundation, Microsoft, Amazon, and NVIDIA. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA from UC San Diego, and his PhD in DXARTS from the University of Washington. He is an Assistant Professor with the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) at the University of Nebraska-Lincoln, and a Visiting Scholar with the [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) at UC San Diego.
 -->
-# Support
+<!-- # Support -->
 
 <!--This workshop is made possible, in part, by generous support from the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu).-->

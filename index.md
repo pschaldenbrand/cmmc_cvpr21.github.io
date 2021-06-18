@@ -82,7 +82,7 @@ Presentation will be available soon!
 
 # Participating Artists
 
-[__Contributed Artworks__](/artworks)
+[__Contributed Artworks__](http://cmmc-cvpr21.com/artworks)
 
 # Schedule (EDT)
 <!-- online videos: invited speaker talks, participants will watch it beforehand -->

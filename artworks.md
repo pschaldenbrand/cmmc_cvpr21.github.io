@@ -2,7 +2,7 @@
 
 ---
 
-<a href="http://www.estebanagosin.cl/eng/the_ear.html">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
+<a href="http://www.estebanagosin.cl/eng/the_ear.html" id="#agosin">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
 
 [__The Ear__](http://www.estebanagosin.cl/eng/the_ear.html) by [Esteban Y Agosin](http://www.estebanagosin.cl/eng/)
 
@@ -19,7 +19,7 @@ the ethical and political limits in this type of devices.
 
 ---
 
-<a href="https://ncchung.com/zenmachine-gallery">![image](https://user-images.githubusercontent.com/1598545/122476695-7bcea780-cf7b-11eb-8b58-a75420079d03.png)</a>
+<a href="https://ncchung.com/zenmachine-gallery" id="#chung">![image](https://user-images.githubusercontent.com/1598545/122476695-7bcea780-cf7b-11eb-8b58-a75420079d03.png)</a>
 
 [__Zen Machine__](https://ncchung.com/zenmachine-gallery) by [Neo Christopher Chung](https://cbml.science/)
 
@@ -29,7 +29,7 @@ A series of digital paintings such as "Illusion of falling asleep" (2021), "Unre
 
 ---
 
-<a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger">![image](https://user-images.githubusercontent.com/1598545/122477192-33fc5000-cf7c-11eb-97a5-ffefbbd3b7bd.png)</a>
+<a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger" id="#fernando">![image](https://user-images.githubusercontent.com/1598545/122477192-33fc5000-cf7c-11eb-97a5-ffefbbd3b7bd.png)</a>
 
 [__Jungle in the Tiger__](https://www.chrisantha.co.uk/post/jungle-in-the-tiger) by [Chrisantha Fernando](https://www.chrisantha.co.uk/)
 
@@ -40,7 +40,7 @@ See the paper [Generative Art Using Neural Visual Grammars and Dual Encoders](ht
 
 ---
 
-<a href="https://utkarshojha.github.io/inter-domain-gan/">![image](https://user-images.githubusercontent.com/1598545/122570708-da8a3480-d000-11eb-9d66-3e414b61b528.png)
+<a href="https://utkarshojha.github.io/inter-domain-gan/" id="#ojha">![image](https://user-images.githubusercontent.com/1598545/122570708-da8a3480-d000-11eb-9d66-3e414b61b528.png)
 </a>
 
 [__Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains__](https://utkarshojha.github.io/inter-domain-gan/) by [Utkarsh Ojha](https://utkarshojha.github.io/)

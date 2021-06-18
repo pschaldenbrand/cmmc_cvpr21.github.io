@@ -77,6 +77,8 @@ environment in this post-digital era, when there are indeed non-human/machine ag
 and A.I.
 
 ---
+<a href="https://youtu.be/bazCs9Kyyt4">
+![image](https://user-images.githubusercontent.com/1598545/122573144-51c0c800-d003-11eb-98c7-f40f46f5da9b.png)</a>
 
 [__Permanent Visibility__](https://youtu.be/bazCs9Kyyt4) by [Nica Ross](https://nicaross.com/)
 

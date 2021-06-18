@@ -1,8 +1,8 @@
 # Contributed Artworks
 
-![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)
+<a href="http://www.estebanagosin.cl/eng/the_ear.html">![image](https://user-images.githubusercontent.com/1598545/122474335-ebdb2e80-cf77-11eb-9a64-44bb5ea082bb.png)</a>
 
-[__The Ear__](http://www.estebanagosin.cl/eng/the_ear.html) by [Esteban Y Agosin](http://www.estebanagosin.cl/eng/)
+__The Ear__ by [Esteban Y Agosin](http://www.estebanagosin.cl/eng/)
 
 The ear is a listening, surveillance, and Artificial Intelligence project. It is a device that collects human voices, 
 transcribe them into text, and with that information create new texts. The ear is a machine that through an Artificial
@@ -13,7 +13,7 @@ digital garbage that in a way undermines the expected fantasies of technology an
 with the piece show how the human voice is transformed into a digital object and that could be analyzed, recorded, 
 transformed, stored, and used, questioning the concept, sense and value of the information, privacy and freedom in
 our contemporary society, also questioning the relevance of the information collected in surveillance systems, and
-the ethical and political limits in this type of devices.
+the ethical and political limits in this type of devices. [Project link](http://www.estebanagosin.cl/eng/the_ear.html)
 
 ---
 

@@ -39,11 +39,11 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Epsuw7gLaWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[__Ali Jahanian__](http://people.csail.mit.edu/jahanian/)
+[__Ali Jahanian__](http://people.csail.mit.edu/jahanian/) is a research scientist at MIT. His research focuses on AI and creativity. In particular, developments from his work demonstrate three main applications: 1) Learning by generating, 2) Personalized creativity support tools to augment and democratize creativity, and 3) Learning theories of cognition and creativity.
 
-Presentation will be available soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMsk2FOO_zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img width="150" height="auto" src="http://people.csail.mit.edu/jahanian/img/ali-csail-2017-1.png">
+<!-- <img width="150" height="auto" src="http://people.csail.mit.edu/jahanian/img/ali-csail-2017-1.png"> -->
 
 [__Kristen Grauman__](https://www.cs.utexas.edu/users/grauman/) is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition, video, and embodied perception.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an IEEE Fellow, AAAI Fellow, Sloan Fellow, and recipient of the 2013 Computers and Thought Award.  She and her collaborators have been recognized with several Best Paper awards in computer vision, including a 2011 Marr Prize and a 2017 Helmholtz Prize (test of time award).  She serves as an Associate Editor-in-Chief for PAMI and previously served as a Program Chair of CVPR 2015 and NeurIPS 2018.
 

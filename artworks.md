@@ -29,7 +29,7 @@ A series of digital paintings such as "Illusion of falling asleep" (2021), "Unre
 
 ---
 
-<a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger" id="fernando">![image](https://user-images.githubusercontent.com/1598545/122477192-33fc5000-cf7c-11eb-97a5-ffefbbd3b7bd.png)</a>
+<a href="https://www.chrisantha.co.uk/post/jungle-in-the-tiger" id="fernando">![image](https://user-images.githubusercontent.com/1598545/122675091-beb39980-d18c-11eb-84be-c0c3dc1de69a.png)</a>
 
 [__Jungle in the Tiger__](https://www.chrisantha.co.uk/post/jungle-in-the-tiger) by [Chrisantha Fernando](https://www.chrisantha.co.uk/)
 
@@ -92,7 +92,10 @@ out of understanding in pursuit of joy rather than legibility.
 
 ---
 
-<a href="https://tunesfromtheaifrontiers.wordpress.com/2021/06/01/week-36-evigt-forlorad-forever-lost-folk-rnn-v2-sturm/" id="sturm">![image](https://user-images.githubusercontent.com/1598545/122475928-3a89c800-cf7a-11eb-9d27-bd0a646b266b.png)</a>
+<!--<a href="https://tunesfromtheaifrontiers.wordpress.com/2021/06/01/week-36-evigt-forlorad-forever-lost-folk-rnn-v2-sturm/" id="sturm">![image](https://user-images.githubusercontent.com/1598545/122475928-3a89c800-cf7a-11eb-9d27-bd0a646b266b.png)</a>-->
+
+<a href="https://tunesfromtheaifrontiers.wordpress.com/2021/06/01/week-36-evigt-forlorad-forever-lost-folk-rnn-v2-sturm/" id="sturm">![image](https://user-images.githubusercontent.com/1598545/122675121-d8ed7780-d18c-11eb-8639-9288dd322bc3.png)</a>
+
 
 [__Tunes from the Ai Frontiers: Week 36: Evigt Förlorad – Forever Lost (folk-rnn v2 + Sturm)__](https://tunesfromtheaifrontiers.wordpress.com/2021/06/01/week-36-evigt-forlorad-forever-lost-folk-rnn-v2-sturm/) by [Bob L.T. Sturm](https://www.kth.se/profile/bobs)
 

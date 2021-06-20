@@ -149,16 +149,6 @@ This workshop is accepting submissions of computer vision artwork to form a virt
 If you are interested in submitting artwork, please use the following Google Form to send your work by Saturday, May 1st, midnight Eastern.
 [Art Call Form](https://forms.gle/xTYSwdZPrUKKwv3x9) -->
 
-<!--
-Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future Measurable Creative AI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
-
-__How to participate__: If you are interested to participate, please fill out the following google form by May 1st, 2021.
-
-Form: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSeAGeh5_nk2Y3Uu3zPIyUU_riHrAnSutdb1xUZcglrEsM_AWQ/viewform)
-
-We will send out an acceptance notification by May 15th, 2021.
--->
-
 # Participants
 <!--
 This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
@@ -168,14 +158,10 @@ __Workshop Participant__ [This is their website/artwork/publication title](websi
 Participants will be updated as they are confirmed.
 
 # Metrics
-Coming soon.
 
-<!--
-
-Here is our metrics worksheet: [google docs](newmetricssheet.com)
+Here is our metrics worksheet: [google docs](https://docs.google.com/spreadsheets/d/1OKdJDCBNFXRgOQ70SRWTQ2jbvXuvXldMbMmrf0ExfEY/edit?usp=sharing)
 
 We will publish our results after the workshop.
--->
 
 # Organizers 
  
@@ -197,14 +183,6 @@ We will publish our results after the workshop.
  
 [__Jun-Yan Zhu__](https://www.cs.cmu.edu/~junyanz/) is an Assistant Professor in the School of Computer Science of Carnegie Mellon University. He studies computer vision, computer graphics, computational photography, and machine learning, with the goal of building intelligent machines, capable of recreating our visual world. Jun-Yan has co-organized several relevant workshops and tutorials including CVPR 2020 Tutorial on Neural Rendering, ICCV 2019 Workshop on Image and Video Synthesis, and CVPR 2018 Tutorial on Generative Adversarial Networks.
 
-
-<!--
-__Eunsu Kang__ is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. Her works have been presented at conferences including ACM, ICMC, ISEA, SIGGRAPH Asia and NeurIPS. Kang earned her Ph.D. from DXARTS of the University of Washington, an MA from MAT, UCSB, and an MFA from Ewha Womans University. She was a tenured Associate Professor of New Media Art at the University of Akron and currently is a Visiting Professor of Art and Machine Learning at Carnegie Mellon University’s School of Computer Science. [kangeunsu.com](kangeunsu.com)
-
-__Jean Oh__ is a faculty member at the [Robotics Institute at Carnegie Mellon University]([www.cs.cmu.edu/~jeanoh/]). Her research addresses the creativity in decision making in the problem domains including self-driving cars, disaster response, healthcare, and arts. Her team’s work won the Best Paper Award at the 2018 IEEE International Conference on Robotics and Automation, and also the Best Cognitive Robotics Paper Award at the IEEE International Conference on Robotics and Automation in 2015.  Jean received her Ph.D. in Language and Information Technologies at Carnegie Mellon University, M.S. in Computer Science at Columbia University, and B.S. in Biotechnology at Yonsei University.
-
-__Robert Twomey__ is an artist and engineer exploring the poetic intersection of human and machine perception. He has presented his work at SIGGRAPH, the Museum of Contemporary Art San Diego, and his research has been supported by the National Science Foundation, Microsoft, Amazon, and NVIDIA. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA from UC San Diego, and his PhD in DXARTS from the University of Washington. He is an Assistant Professor with the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) at the University of Nebraska-Lincoln, and a Visiting Scholar with the [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) at UC San Diego.
--->
 <!-- # Support -->
 
 <!--This workshop is made possible, in part, by generous support from the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu).-->

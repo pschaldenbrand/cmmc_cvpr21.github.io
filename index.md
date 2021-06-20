@@ -159,7 +159,7 @@ Participants will be updated as they are confirmed.
 
 # Metrics
 
-Here is our metrics worksheet: [google docs](https://docs.google.com/spreadsheets/d/1OKdJDCBNFXRgOQ70SRWTQ2jbvXuvXldMbMmrf0ExfEY/edit?usp=sharing)
+For the hands-on workshop activities, please fill in your groups' responses in this shared worksheet: [google docs](https://docs.google.com/spreadsheets/d/1OKdJDCBNFXRgOQ70SRWTQ2jbvXuvXldMbMmrf0ExfEY/edit?usp=sharing)
 
 We will publish our results after the workshop.
 

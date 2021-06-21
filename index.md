@@ -19,6 +19,9 @@ While the methods for producing machine creativity have significantly improved, 
 # Format
 This workshop will consist of a combination of expert panelists discussing key questions in measuring creativity, breakout sessions amongst attendees drawing on their disciplinary expertise, and an interactive evaluation of artworks submitted to the workshop.  We have gathered a list of experts in creative computer vision and visual art who are interested in discussing their own methods of measuring creativity and hearing how others do so.  These guest speakers will engage in a panel discussion and a question and answer session.  
 
+# Introduction
+
+Introductory slides from Eunsu Kang: [Bridging the Gap Between Subjective and Computational Measurements of Machine Creativity](eunsu_CMMC_Intro.pdf)
 
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->

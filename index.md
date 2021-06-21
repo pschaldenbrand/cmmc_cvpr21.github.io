@@ -13,7 +13,7 @@
 
 CVPR 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
-# Introduction
+# Description
 While the methods for producing machine creativity have significantly improved, the discussion on a scientific consensus on measuring the creative abilities of machines has only begun.  As Artificial Intelligence becomes capable of solving more abstract and advanced problems (e.g., image synthesis, cross-modal translations), how do we measure the creative performance of a machine?  In the world of visual art, subjective evaluations of creativity have been discussed at length. In the CVPR community, by comparison, evaluating a creative method has not been as systematized. Our goal in this workshop is to discuss current methods for measuring creativity both from experts in creative artificial intelligence as well as artists.  We do not wish to narrow the gap between how humans evaluate creativity and how machines do, instead we wish to understand the differences and create links between the two such that our machine creativity methods improve.
 
 # Format
@@ -21,7 +21,7 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 # Introduction
 
-Introductory slides from Eunsu Kang: [Bridging the Gap Between Subjective and Computational Measurements of Machine Creativity](eunsu_CMMC_Intro.pdf)
+Introductory talk from Eunsu Kang: [Bridging the Gap Between Subjective and Computational Measurements of Machine Creativity](eunsu_CMMC_Intro.pdf)
 
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->

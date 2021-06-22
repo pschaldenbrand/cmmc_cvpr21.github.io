@@ -23,6 +23,10 @@ This workshop will consist of a combination of expert panelists discussing key q
 
 Introductory talk from Eunsu Kang: [Bridging the Gap Between Subjective and Computational Measurements of Machine Creativity](eunsu_CMMC_Intro.pdf)
 
+# Panel Discussion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/76ylQ7VjwNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Invited Speakers 
 <!-- __Participant Name__ (Affiliation(s), [website.com](website.com)) -->
 
